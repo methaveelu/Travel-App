@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# GA Project 2: Travel Recommendation Website (incomplete)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objective
+The objective of this project is to leverage on the React framework to build an application, through applying the knowledge of creating components, props, state properties, setState and routes. in addition, calling of API is part of the objective for the website to display data for the user.  
 
-## Available Scripts
+## Overview
+The value proposition of this app is to provide users a one-stop travel website, which not only provides recommendations in a form of videos, however it also allows the user to access the flight booking system and check for flight prices which in turns allow the user to make a decision on the ideal travel location based on his/her location of interest and estimated expenditures.
 
-In the project directory, you can run:
+## Program Structure
 
 ### `npm start`
 
